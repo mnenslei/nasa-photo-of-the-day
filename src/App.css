@@ -1,8 +1,12 @@
 .App {
   text-align: center;
 }
+Header {
+  background-color: #61dafb;
+}
 .mainDiv {
-  background-color: red;
+  max-width: fit-content;
+  max-height: fit-content;
 }
 
 .App-logo {
